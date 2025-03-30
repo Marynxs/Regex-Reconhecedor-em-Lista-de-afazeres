@@ -48,7 +48,7 @@ mensagem = "10:30, 10 30, 10 horas, 1 hora, às 10
 28 de Fevereiro, 13 de agosto de 2021, 30/01, 20/04/2022, hoje, amanhã, depois de amanhã, 18 agosto, 18 de agosto 2023
 #casa, #trabalho
 https://sp.senac.br/pag1#teste?aula=1&teste=4
-agathabsantos2@gmail.com, jose.da-silva@sp.senac.br
+jose.da-silva@sp.senac.br
 https://sig.fhits.com.br/campanha/MzNsPieQBgwGPibadgIhutPI6anezU5pnaoWqGyx9lRhkgNjFqPf4nMovMRQa6my49PyXmeH7fmggIO9YDoaU81SmsJxTdfJWYRo1742308533
 agendar|marcar|ligar|estudar|sair
 https://sp.senac.br/pag1#teste?aula=1&teste=4
